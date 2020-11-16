@@ -7,7 +7,6 @@ year: 1992
 license_url: https://commons.wikimedia.org/wiki/File:ProjectionKeyboard_2.jpg
 license_text: 
 categories: 
- - Μοντέλα
  - Συσκευές Εισόδου
  - Τρόποι διάδρασης
 tags:
