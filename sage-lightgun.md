@@ -1,4 +1,4 @@
----
+
 author: epidrome
 title: SAGE Lightgun 
 image_url: /images/sage-lightgun.jpg
