@@ -14,6 +14,6 @@ tags:
  - Virtual assistant
  - SRI International
  - Dag Kttlaus 
- -Tom Gruber
+ - Tom Gruber
  - Steve jobs
 ---
